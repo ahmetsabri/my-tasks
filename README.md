@@ -5,7 +5,4 @@
 </p>
 
 ## Laravel 11 Task Management CRUD App
-
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
-
 - [Click here to watch the tutorials](https://youtu.be/yovEC0ojWY8).
